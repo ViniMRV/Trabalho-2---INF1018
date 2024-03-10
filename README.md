@@ -1,0 +1,1 @@
+Esse foi um trabalho realizado na disciplina INF1018 (Software Básico) na PUC-Rio, em dupla com meu colega João Ricardo Malta, no período de 23.2. O trabalho consistia em realizar um gerador de funções dinâmico em C para assembly.
